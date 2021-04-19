@@ -15,8 +15,6 @@ import org.jsoup.nodes.Document;
 public class ProductService {
 	
 	
-
-	
 	Product productObj = new Product();
 	@GET
 	@Path("/")
